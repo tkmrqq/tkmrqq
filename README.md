@@ -1,4 +1,4 @@
 # tkmrqq
 <p align="center">
-<img src="https://assets.pinterest.com/ext/embed.html?id=76983474875178122"/>
+<img src="https://i.pinimg.com/564x/9e/26/ed/9e26ed4fa9c3688752342f3bd7ccdef6.jpg"/>
 </p>
