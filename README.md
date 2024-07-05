@@ -4,6 +4,7 @@
 - Spring Framework
 - React/Next.js
 ---------------
+- PostgreSQL
 - Docker
 - Arch Linux
 - Git
