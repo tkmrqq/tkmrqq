@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vladislav+👋;C%2B%2B+%7C+Qt+%7C+CUDA+Developer;Full-Stack+%26+DevOps+Enthusiast" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey!+I'm+a+Developer+%F0%9F%91%8B;C%2B%2B+%7C+Qt+%7C+CUDA+Engineer;Next.js+%7C+Tailwind+Frontend;Java+Spring+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG" />
+</p>
 
 ## 🧑‍💻 About Me
 
